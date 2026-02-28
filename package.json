@@ -1,0 +1,25 @@
+{
+  "name": "smooth-scroll",
+  "version": "1.0.0",
+  "description": "Smooth scrolling to anchors",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "scroll",
+    "smooth",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/smooth-scroll.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
